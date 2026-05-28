@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(227, 213, 240);
+    background-color: rgb(248, 242, 226);
 }
 
 .red{
@@ -15,6 +15,12 @@ body{
     background-color: rgb(255, 255, 0);
 }
 
+
+
+
+
+
+
 .green{
     background-color:rgb(0, 128, 0);
     color:white;
@@ -28,6 +34,11 @@ body{
     background-color: rgb(104, 0, 114);
     color:white;
 }
+
+
+
+
+
 
 .orangered{
     background-color:rgb(255, 69, 0);
@@ -55,3 +66,131 @@ body{
     color:white;
 }
 
+
+
+
+
+.white{
+    background-color: rgb(255, 255, 255);
+}
+
+.ink{
+    background-color: rgb(0, 23, 31);
+    color:white;
+}
+
+.lgreen{
+    background-color: rgb(178, 239, 155);
+}
+
+.cherry{
+    background-color: rgb(164, 14, 76);
+    color:white;
+}
+
+.baby{
+    background-color: rgb(0, 168, 232);
+}
+
+
+
+
+.brass{
+    background-color: rgb(200, 165, 0);
+}
+
+.celadon{
+    background-color: rgb(182, 203, 158);
+}
+
+.mteal{
+    background-color: rgb(146, 180, 167);
+}
+
+.rosy{
+    background-color: rgb(140, 138, 147);
+}
+
+.dusty{
+    background-color: rgb(129, 102, 122);
+    color:white;
+}
+
+
+
+
+
+.jade{
+    background-color: #20BF55;
+}
+
+.sea{
+    background-color: #168761;
+    color:white;
+}
+
+.yale{
+    background-color: #0B4F6C;
+    color:white;
+}
+
+.ocean{
+    background-color: #0685AE;
+}
+
+.sky{
+    background-color: #01BAEF;
+}
+
+.baltic{
+    background-color: #39608B;
+    color:white;
+}
+
+.marron{
+    background-color: #710627;
+    color:white;
+}
+
+.mauve{
+    background-color: #AA6F93;
+}
+
+.periwinkle{
+    background-color: #E3D7FF;
+}
+
+.black{
+    background-color: #000000;
+    color:white;
+}
+
+
+
+
+
+
+.french{
+    background-color: #3D3B8E;
+    color:white;
+}
+
+.glaucous{
+    background-color: #6883BA;
+}
+
+.snow{
+    background-color: #F9F9F9;
+}
+
+.blush{
+    background-color: #F2D9D9;
+}
+
+.lpink{
+    background-color: #E483AF;
+}
+
+.dpink{
+    background-color: #E072A4;
+}
